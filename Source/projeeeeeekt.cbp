@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="projeeeeeekt" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/projeeeeeekt" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/projeeeeeekt" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="Brnenie.cpp" />
+		<Unit filename="Brnenie.h" />
+		<Unit filename="Bunka.cpp" />
+		<Unit filename="Bunka.h" />
+		<Unit filename="Carry.cpp" />
+		<Unit filename="Carry.h" />
+		<Unit filename="Engine.cpp" />
+		<Unit filename="Engine.h" />
+		<Unit filename="Hrac.cpp" />
+		<Unit filename="Hrac.h" />
+		<Unit filename="Invader.cpp" />
+		<Unit filename="Invader.h" />
+		<Unit filename="Matica.cpp" />
+		<Unit filename="Matica.h" />
+		<Unit filename="Mec.cpp" />
+		<Unit filename="Mec.h" />
+		<Unit filename="Ork.cpp" />
+		<Unit filename="Ork.h" />
+		<Unit filename="Prisera.cpp" />
+		<Unit filename="Prisera.h" />
+		<Unit filename="Semi.cpp" />
+		<Unit filename="Semi.h" />
+		<Unit filename="Tanker.cpp" />
+		<Unit filename="Tanker.h" />
+		<Unit filename="UpgradeLog.XML" />
+		<Unit filename="main.cpp" />
+		<Unit filename="projeeeeeekt.cbp" />
+		<Unit filename="projeeeeeekt.depend" />
+		<Unit filename="projeeeeeekt.layout" />
+		<Unit filename="projj.cproj" />
+		<Unit filename="projj.pidb" />
+		<Unit filename="projj.sln" />
+		<Unit filename="projj.suo" />
+		<Unit filename="projj.userprefs" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

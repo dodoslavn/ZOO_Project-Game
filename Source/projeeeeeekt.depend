@@ -1,0 +1,99 @@
+# depslib dependency file v1.0
+1387656332 source:c:\users\dodoslav novak\desktop\projeeeeeekt\brnenie.cpp
+	"Brnenie.h"
+
+1389484024 c:\users\dodoslav novak\desktop\projeeeeeekt\brnenie.h
+	<iostream>
+
+1389484106 source:c:\users\dodoslav novak\desktop\projeeeeeekt\bunka.cpp
+	"Bunka.h"
+
+1389484457 c:\users\dodoslav novak\desktop\projeeeeeekt\bunka.h
+	"Brnenie.h"
+	"Mec.h"
+	"Prisera.h"
+
+1389486226 c:\users\dodoslav novak\desktop\projeeeeeekt\mec.h
+	<iostream>
+
+1389488230 c:\users\dodoslav novak\desktop\projeeeeeekt\prisera.h
+	<iostream>
+
+1389386683 source:c:\users\dodoslav novak\desktop\projeeeeeekt\carry.cpp
+	"Carry.h"
+
+1389484520 c:\users\dodoslav novak\desktop\projeeeeeekt\carry.h
+	"Hrac.h"
+
+1389485362 c:\users\dodoslav novak\desktop\projeeeeeekt\hrac.h
+	<iostream>
+	"Mec.h"
+	"Brnenie.h"
+
+1389485201 source:c:\users\dodoslav novak\desktop\projeeeeeekt\hrac.cpp
+	"Hrac.h"
+
+1389471624 source:c:\users\dodoslav novak\desktop\projeeeeeekt\invader.cpp
+	"Invader.h"
+
+1389485520 c:\users\dodoslav novak\desktop\projeeeeeekt\invader.h
+	"Prisera.h"
+
+1387537234 source:c:\users\dodoslav novak\desktop\projeeeeeekt\main.cpp
+	<iostream>
+	"Engine.h"
+
+1389483992 c:\users\dodoslav novak\desktop\projeeeeeekt\engine.h
+	<stdlib.h>
+	<fstream>
+	<iostream>
+	"windows.h"
+	<string>
+	"Matica.h"
+	"Bunka.h"
+	"Hrac.h"
+	"Semi.h"
+	"Carry.h"
+	"Tanker.h"
+	"Mec.h"
+	"Brnenie.h"
+	"Prisera.h"
+	"Ork.h"
+	"Invader.h"
+
+1389486108 c:\users\dodoslav novak\desktop\projeeeeeekt\matica.h
+	<vector>
+	"Bunka.h"
+	"Prisera.h"
+	"Mec.h"
+
+1389488288 c:\users\dodoslav novak\desktop\projeeeeeekt\semi.h
+	"Hrac.h"
+
+1389488306 c:\users\dodoslav novak\desktop\projeeeeeekt\tanker.h
+	"Hrac.h"
+
+1389486613 c:\users\dodoslav novak\desktop\projeeeeeekt\ork.h
+	"Prisera.h"
+
+1389464483 source:c:\users\dodoslav novak\desktop\projeeeeeekt\matica.cpp
+	"Matica.h"
+
+1387656036 source:c:\users\dodoslav novak\desktop\projeeeeeekt\mec.cpp
+	"Mec.h"
+
+1389471615 source:c:\users\dodoslav novak\desktop\projeeeeeekt\ork.cpp
+	"Ork.h"
+
+1387665764 source:c:\users\dodoslav novak\desktop\projeeeeeekt\prisera.cpp
+	"Prisera.h"
+
+1389386679 source:c:\users\dodoslav novak\desktop\projeeeeeekt\semi.cpp
+	"Semi.h"
+
+1389386673 source:c:\users\dodoslav novak\desktop\projeeeeeekt\tanker.cpp
+	"Tanker.h"
+
+1389484813 source:c:\users\dodoslav novak\desktop\projeeeeeekt\engine.cpp
+	"Engine.h"
+

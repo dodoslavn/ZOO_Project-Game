@@ -1,0 +1,26 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="skuska/main.cpp">
+    <Files>
+      <File FileName="Engine.h" Line="32" Column="26" />
+      <File FileName="Engine.cpp" Line="139" Column="36" />
+      <File FileName="Hrac.cpp" Line="48" Column="16" />
+      <File FileName="Hrac.h" Line="51" Column="19" />
+      <File FileName="Matica.cpp" Line="71" Column="40" />
+      <File FileName="Matica.h" Line="39" Column="3" />
+      <File FileName="Bunka.cpp" Line="6" Column="58" />
+      <File FileName="Bunka.h" Line="25" Column="36" />
+      <File FileName="Prisera.h" Line="33" Column="11" />
+      <File FileName="Prisera.cpp" Line="36" Column="1" />
+      <File FileName="Ork.cpp" Line="11" Column="2" />
+      <File FileName="Ork.h" Line="4" Column="1" />
+      <File FileName="Invader.cpp" Line="6" Column="4" />
+      <File FileName="Invader.h" Line="16" Column="22" />
+      <File FileName="skuska/main.cpp" Line="6" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
